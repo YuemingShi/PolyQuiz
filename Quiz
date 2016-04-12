@@ -1,0 +1,5 @@
+
+
+inheritance is an object or class is based on another object or class, using the same implementation (inheriting from an object or class) specifying implementation to maintain the same behavior. The subclass inheritance the superclasses
+
+polymorphism is the provision of a single interface to entities of different types.It can be applied to values of some other type.It is from the subclasses to the superclasses.
